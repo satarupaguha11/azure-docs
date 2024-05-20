@@ -493,7 +493,6 @@ The above numbers are based on testing on a data set with:
 * 191 conversations 
 * 250 questions
 * 10 average tokens per question
-* 4 conversational turns per conversation on average 
 
 And the following [parameters](#runtime-parameters).
 
